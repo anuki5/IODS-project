@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+author: "Anu Kirjasuo"
 output:
   html_document:
     theme: cosmo

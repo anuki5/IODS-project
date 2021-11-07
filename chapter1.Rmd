@@ -3,6 +3,8 @@
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
+*By looking at the table of contents of this course the topics seem very useful and I really hope to learn things at the level that I can independently apply them in the future. A  bonus here is the use of GitHub, as I have wanted to start using it for years, but have not really managed. It was a very good thing that my doctoral programme advertised this course with an e-mail. My GitHub project is https://github.com/anuki5/IODS-project *
+
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
 
